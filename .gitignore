@@ -1,0 +1,15 @@
+# All  files in this list will be ignored
+
+
+# Single file
+.env*
+test.php
+
+# Single file in a folder
+includes/api_key.php
+
+# All files in a folder
+api/
+
+# Files with a specific extension
+*.js
